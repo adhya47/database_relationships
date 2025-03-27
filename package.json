@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongoose": "^8.13.0",
+    "nodemon": "^3.1.9"
+  },
+  "name": "relationships",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adhya",
+  "license": "ISC",
+  "description": ""
+}
